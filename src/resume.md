@@ -1,4 +1,4 @@
-Shashir Reddy
+[Shashir Reddy](mailto:shashir@umich.edu?Subject=Ready to put a dent in the universe)
 =============
 
 	shashir@umich.edu
@@ -11,7 +11,7 @@ Shashir Reddy
 Summary
 -------
 
-I have broad academic background in mathematics and computational sciences. I also have a broad industry background in areas including financial services, information retrieval, and entertainment/social platforms. I focus on machine learning and large-scale data mining problems.
+I have a broad academic background in mathematics and computational sciences. I also have a broad industry background in areas including financial services, information retrieval, and entertainment/social platforms. I focus on machine learning and large-scale data mining problems.
 
 I also believe in giving back to society through teaching and software solutions to social justice issues.
 
@@ -49,7 +49,7 @@ Capital One Financial Corp.\
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Studied credit risk of loan portfolios in Business Intelligence and Credit Risk Management teams.
 
 *Researcher* (2009-2010) \
-Department of Human Genetics, University of Michigan; Advisor: Noah Rosenberg \
+Department of Human Genetics, University of Michigan; Advisor: [Noah Rosenberg](https://rosenberglab.stanford.edu/alumni.html) \
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Worked on mathematical questions in genetics: close relationships between allele-frequency summaries \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at polymorphic loci.
 
@@ -88,10 +88,10 @@ Java, Scala, Matlab, Python, Hadoop/MapReduce, C/C++, SQL, SAS, R, Bash, HTML/CS
 ### Natural languages
 
 Fluent: English, Telugu, Hindi/Urdu \
-Intermediate: Sanskrit, Farsi
+Beginner-Intermediate: Sanskrit, Japanese, Farsi, French
 
 ### Interests
 
-Machine learning, artificial intelligence, deep learning, futurism, linguistics, entrepreneurship, bioinformatics, human languages, MOOCs, teaching, community service, etc.
+Machine learning, artificial intelligence, deep learning, futurism, linguistics, entrepreneurship, bioinformatics, human languages, MOOCs, teaching, community service, co-founded [Michigan Student Artificial Intelligence Lab (MSAIL)](https://maizepages.umich.edu/organization/msail), etc.
 
 
