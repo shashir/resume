@@ -11,7 +11,7 @@
 Summary
 -------
 
-I have a broad academic background in mathematics and computational sciences. I also have a broad industry background in areas including financial services, information retrieval, and entertainment/social platforms. I focus on machine learning and large-scale data mining problems.
+I have a broad academic background in mathematics and computational sciences. I also have a broad industry background in areas including financial services, information retrieval, and entertainment/social platforms. I focus on machine learning and large-scale data mining problems, particularly in recommendations/personalization and information retrieval.
 
 I also believe in giving back to society through teaching and software solutions to social justice issues.
 
@@ -83,7 +83,7 @@ Skills
 
 ### Programming languages/frameworks
 
-Java, Scala, Matlab, Python, Hadoop/MapReduce, C/C++, SQL, SAS, R, Bash, HTML/CSS, \LaTeX, Mathematica, GROMACS, PyMol, MathCad, etc.
+Java, Scala, Spark (+MLlib), Matlab, Python, Hadoop/MapReduce, HBase, Cassandra, Elasticsearch, Lucene, scikit-learn, Weka, C/C++, SQL, SAS, R, Bash, HTML/CSS, \LaTeX, Mathematica, GROMACS, PyMol, MathCad, etc.
 
 ### Natural languages
 
