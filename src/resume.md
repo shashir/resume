@@ -11,7 +11,7 @@
 Summary
 -------
 
-I have a broad academic background in mathematics and computational sciences. I also have a broad industry background in areas including financial services, information retrieval, and entertainment/social platforms. I focus on machine learning and large-scale data mining problems, particularly in recommendations/personalization and information retrieval.
+I focus on machine learning and large-scale data mining problems, particularly in recommendations, personalization, and search.
 
 I also believe in giving back to society through teaching and software solutions to social justice issues.
 
