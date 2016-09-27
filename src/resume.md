@@ -8,31 +8,24 @@
 	Apt. 1611
 	San Francisco, CA 94103
 
+
 Summary
 -------
 
-I focus on machine learning and large-scale data mining problems, particularly in recommendations, personalization, and search.
+I focus on machine learning and large-scale data mining problems, particularly in search and recommender systems.
 
 I also believe in giving back to society through teaching and software solutions to social justice issues.
 
 
-Education
----------
-
-**Master of Science**, Computer Science -- Machine Learning (2016) \
-Georgia Institute of Technology, GPA 4.0/4.0
-
-**Post-baccalaureate student**, Computer Science (2011-2012) \
-Ohio State University (2011), GPA 4.0/4.0 \
-Stanford University (2012), GPA 4.0/4.0
-
-**Bachelor of Science**, Honors Mathematics (2010) \
-University of Michigan, Ann Arbor, GPA 3.56/4.00
-
 Experience
 ----------
 
-**Senior Machine Learning Engineer, Discovery** (2015) \
+**Software Engineer, Search Quality** (2016-present) \
+*[Google](http://google.com)* \
+&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; I work on search ranking problems in Ranklab.
+
+
+**Senior Machine Learning Engineer, Discovery** (2015-2016) \
 *[Imgur](http://imgur.com)* \
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Lead engineer for user personalization and content discovery platform. \
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Built Imgur's first analytical data warehouse using Impala, Hadoop, and Spark on AWS. \
@@ -52,6 +45,20 @@ Experience
 *Department of Human Genetics, University of Michigan*; Advisor: [Noah Rosenberg](https://rosenberglab.stanford.edu/alumni.html) \
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; Worked on mathematical questions in genetics: close relationships between allele-frequency summaries \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; at polymorphic loci.
+
+
+Education
+---------
+
+**Master of Science**, Computer Science -- Machine Learning (2016) \
+Georgia Institute of Technology, GPA 4.0/4.0
+
+**Post-baccalaureate student**, Computer Science (2011-2012) \
+Ohio State University (2011), GPA 4.0/4.0 \
+Stanford University (2012), GPA 4.0/4.0
+
+**Bachelor of Science**, Honors Mathematics (2010) \
+University of Michigan, Ann Arbor, GPA 3.56/4.00
 
 
 Publications
