@@ -22,7 +22,7 @@ Experience
 
 **Software Engineer, Search Quality** (2016-present) \
 *[Google](http://google.com)* \
-&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; I work on search ranking problems in Ranklab.
+&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; I work on search ranking problems in rank lab.
 
 
 **Senior Machine Learning Engineer, Discovery** (2015-2016) \
@@ -58,7 +58,7 @@ Ohio State University (2011), GPA 4.0/4.0 \
 Stanford University (2012), GPA 4.0/4.0
 
 **Bachelor of Science**, Honors Mathematics (2010) \
-University of Michigan, Ann Arbor, GPA 3.56/4.00
+University of Michigan, Ann Arbor, GPA 3.5/4.0
 
 
 Publications
@@ -72,18 +72,18 @@ Teaching Experience
 
 **Volunteer Teacher** \
 *El Camino High School, AP Computer Science, [TEALS](https://www.tealsk12.org/)* (2015-2016) \
-I volunteer every day to help teach first period Advanced Placement (AP) Computer Science at El Camino High School in South San Francisco. This includes defining objectives, lesson planning, lecturing, and working directly with students. As the resident Java expert, I consult the mathematics faculty heavily in developing their computer science initiatives.
+Volunteered daily to teach first period Advanced Placement (AP) Computer Science at El Camino High School in South San Francisco. This included defining objectives, lesson planning, and lecturing. As the resident Java expert, I advised the mathematics faculty in developing their computer science initiatives.
 
 **Industry mentor for high school students** \
 *Imgur* (2015) \
-I mentor four high school students from El Camino High School at the Imgur offices. This involves guiding their computer science learnings and introducing them to the workings of a real technology company.
+Mentored four high school students from El Camino High School at the Imgur offices. This involved guiding their computer science learnings and introducing them to the workings of a real technology company.
 
-**Grader/TA for algorithms, database systems, and miscellaneous offerings** \
+**TA/grader for algorithms, database systems, and miscellaneous offerings** \
 *Georgia Institute of Technology* (*)
 
 **Student Instructor** \
 *Michigan Math and Science Scholars* (Summer 2009-2010) \
-I was a student instructor for “Math and the Internet,” a short course for high school students on topics in discrete mathematics, coding theory, [basic electronics](http://www-personal.umich.edu/~mconger/2010/Clock/index.html), information theory, encryption, programming, etc. I worked with M. Conger, P. Shearer (2009), and S. Fawcett (2010).
+I was a student instructor for ``Math and the Internet,'' a short course for high school students on topics in discrete mathematics, coding theory, [basic electronics](http://www-personal.umich.edu/~mconger/2010/Clock/index.html), information theory, encryption, programming, etc. I worked with M. Conger, P. Shearer (2009), and S. Fawcett (2010).
 
 Skills
 ------
@@ -98,7 +98,6 @@ Fluent: English, Telugu, Hindi/Urdu \
 Beginner-Intermediate: Sanskrit, Japanese, Farsi, French
 
 ### Interests
-
 Machine learning, artificial intelligence, deep learning, futurism, linguistics, entrepreneurship, bioinformatics, human languages, MOOCs, teaching, community service, co-founded [Michigan Student Artificial Intelligence Lab (MSAIL)](https://maizepages.umich.edu/organization/msail), etc.
 
 
