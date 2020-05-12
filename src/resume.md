@@ -9,18 +9,14 @@
 	San Francisco, CA 94103
 
 
-Summary
--------
-
-I focus on machine learning and large-scale data mining problems, particularly in search and recommender systems.
-
-I also believe in giving back to society through teaching and software solutions to social justice issues.
-
-
 Experience
 ----------
+**Software Engineer, Medical Brain (Google Health)** (2017-present) \
+*[Google](http://google.com)* \
+&nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; I work on applications of ML on electronic health record data.
 
-**Software Engineer, Search Quality** (2016-present) \
+
+**Software Engineer, Search Quality** (2016-2017) \
 *[Google](http://google.com)* \
 &nbsp;&nbsp;&nbsp;&nbsp; - &nbsp; I work on search ranking problems in rank lab.
 
